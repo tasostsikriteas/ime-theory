@@ -7,6 +7,14 @@
 ## Overview
 
 The I.M.E. Theory proposes a fundamental equation connecting entropy change and energy activation through observation. This repository contains the core documentation, declarations, and scientific abstracts for the theory:
+## 📄 Citation
+
+If you use or reference this work, please cite:
+
+**T.A.S.O./I.M.E. Theory (ver. 4): A Dynamic Model of Observational Information Activation and Energetic Transformation**  
+Tasos Tsikriteas (2025)  
+Zenodo Preprint:  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15521929.svg)](https://doi.org/10.5281/zenodo.15521929)
 
 ```
 dE/dt = γ × (−dS_I/dt) × C(t)
